@@ -23,3 +23,6 @@ Feel free to reach out through GitHub.
 - **[Bindu](https://github.com/GetBindu/Bindu)** - The identity, communication, and payments layer for AI agents
   - Python (67.1%) | TypeScript (32.1%)
   - Decentralized Agent Framework with DID-based identity, OAuth2, and x402 payments
+
+### Projects I Contribute To
+- [Corsair](https://github.com/corsairdev/corsair) - Open-source integration layer for agents
