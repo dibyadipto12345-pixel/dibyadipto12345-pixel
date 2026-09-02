@@ -1,4 +1,4 @@
-# Hi, I'm Dibyadipto Neogi 👋
+#       I'm Dibyadipto Neogi 👋
 
 I’m an IT student seeking internship opportunities.
 
